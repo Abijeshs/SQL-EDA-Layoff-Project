@@ -89,4 +89,6 @@ SELECT *
 FROM company_year_ranked
 WHERE rank <= 5;
 
+-- Selecting everything from layoffs_staging2
+
 SELECT * FROM layoffs_staging2;
