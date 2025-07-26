@@ -88,3 +88,5 @@ company_year_ranked AS (
 SELECT *
 FROM company_year_ranked
 WHERE rank <= 5;
+
+SELECT * FROM layoffs_staging2;
